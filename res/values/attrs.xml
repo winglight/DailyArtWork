@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Gallery1">
+        <attr name="android:galleryItemBackground" />
+    </declare-styleable>
+    <declare-styleable name="GIFView">  
+        <attr name="gif" format="reference"  />  
+    </declare-styleable>  
+</resources>

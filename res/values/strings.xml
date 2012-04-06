@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Artwork</string>
+    <string name="app_name_daily">Daily Artwork - Online Gallery</string>
+    <string name="app_name_local">Daily Artwork - Local Gallery</string>
+    <string name="about_help">Help</string>
+    <string name="aboutTitle">Help</string>
+    <string name="random">Daily Arts</string>
+    <string name="search">Search</string>
+    <string name="local">Local Arts</string>
+    <string name="backMain">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirmDownload">There are %1 tasks running. Are you sure to increase another download task?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name    :</string>
+    <string name="author">Author  :</string>
+    <string name="details">Details :</string>
+    <string name="year">Year    :</string>
+    <string name="location">Location:</string>
+    <string name="noMore">No more images in the local gallery</string>
+    <string name="wait">Still downloading the list of daily arts, please wait a moment...</string>
+    <string name="waitOriginal">Still downloading the original bigger image, please wait a moment...</string>
+    <string name="alreadyFirst">Already to the first image...</string>
+    <string name="alreadyLast">Already to the last image...</string>
+</resources>

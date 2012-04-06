@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天天艺术欣赏</string>
+    <string name="app_name_daily">天天艺术欣赏 - 网络图库</string>
+    <string name="app_name_local">天天艺术欣赏 - 本地图库</string>
+    <string name="about_help">帮助</string>
+    <string name="aboutTitle">帮助</string>
+    <string name="random">每天一赏</string>
+    <string name="search">查找</string>
+    <string name="local">本地图库</string>
+    <string name="backMain">退回</string>
+    <string name="confirm">确认</string>
+    <string name="confirmDownload">已经有 %1 个下载任务在运行. 你是否确定要再添加一个下载任务?</string>
+    <string name="yes">是的</string>
+    <string name="cancel">取消</string>
+    <string name="name">标题  :</string>
+    <string name="author">作者  :</string>
+    <string name="details">描述  :</string>
+    <string name="year">年度  :</string>
+    <string name="location">收藏地点:</string>
+    <string name="noMore">本地图库已无更多图片</string>
+    <string name="wait">正在下载每天一赏列表数据，请稍候...</string>
+    <string name="waitOriginal">正在下载原始大图片，请稍候...</string>
+     <string name="alreadyFirst">已经是第一张图片...</string>
+    <string name="alreadyLast">已经是最后一张图片...</string>
+</resources>
